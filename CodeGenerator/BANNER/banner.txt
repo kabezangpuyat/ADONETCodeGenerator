@@ -1,0 +1,15 @@
+--***********************************************************************      
+-- Procedure Name: xxxPROCEDURENAMExxx      
+-- Description:       
+-- Server:  LOCAL      
+-- Database:  ReveneuTracker      
+-- Created by: McNiel N Viray      
+-- Created on: xxxDATENOWxxx      
+-- STATUS:  PENDING REVIEW.      
+-- Called by:     None      
+-- Calls:   None      
+-- To execute:    exec xxxPROCEDURENAMExxx      
+--       
+-- Modifications      
+-- Who     Date                   Description of mods      
+--***********************************************************************   
